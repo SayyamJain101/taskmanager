@@ -1,7 +1,6 @@
 # 📌 TaskManager
 
 A modern and intuitive **task management web app** built with **TypeScript + Vite + Tailwind CSS**.
-(Adjust this intro to match your actual project stack & purpose)
 
 ## 🚀 Features
 
