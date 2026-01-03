@@ -10,8 +10,6 @@ A modern and intuitive **task management web app** built with **TypeScript + Vit
 * ⚡ Fast and optimized with Vite
 * 🚧 Skeleton for future backend integration
 
-*(Update feature list based on your app’s real functionality)*
-
 ---
 
 ## 🧠 Tech Stack
@@ -22,8 +20,6 @@ A modern and intuitive **task management web app** built with **TypeScript + Vit
 | **Vite**         | Blazing-fast development build tool |
 | **Tailwind CSS** | Utility-first CSS framework         |
 | **HTML & CSS**   | Structure & styling                 |
-
-*(Add any libraries or frameworks you’re using)*
 
 ---
 
@@ -72,8 +68,6 @@ Once the server is running:
 ✔ Go to `http://localhost:3000` (or Vite default port)
 ✔ Start adding and organizing your tasks
 
-*(Add screenshots or demo GIFs here to make it more visual)*
-
 ---
 
 ## 📁 Folder Structure
@@ -90,8 +84,6 @@ taskmanager/
 ├── package.json
 └── tailwind.config.ts
 ```
-
-*(Adjust according to your actual project)*
 
 ---
 
