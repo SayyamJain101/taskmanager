@@ -1,0 +1,32 @@
+{
+  "name": "TaskFlow - Smart Task Management",
+  "short_name": "TaskFlow",
+  "description": "Organize your life with TaskFlow. A beautiful, intuitive to-do app with smart sorting, priorities, and categories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#1e293b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Add Task",
+      "url": "/?action=add",
+      "description": "Quickly add a new task"
+    }
+  ]
+}
